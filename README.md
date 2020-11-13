@@ -3,7 +3,7 @@ PolyMix
 
 > Multiple webpack mixing files for your Laravel project. 
 
-###Introduction
+### Introduction
 This is a basic template for separate [__Laravel Mix__](https://github.com/JeffreyWay/laravel-mix) front end build system in Laravel Project. This can be customized based on your requirement.
 
 
