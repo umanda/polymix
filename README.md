@@ -8,13 +8,13 @@ This is a basic template for separate [__Laravel Mix__](https://github.com/Jeffr
 
 
 
-###Usage
+### Usage
 
 1. Clone or Download repository in to your local computer.
 2. Run `npm install` install dependencies.
 3. Run one of the build scripts and check out the output (for example `npm run dev`)
 
-###Example
+### Example
 
 1. `npm run dev` ( run all )
 2. `npm run dev-web` ( run only web )
